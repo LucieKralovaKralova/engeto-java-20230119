@@ -5,4 +5,4 @@ Testovaci repozitar na ukazku prace s gitem
 - 1.25
 - Druhy
 - Treti
-- Lucie K.
+- osm
